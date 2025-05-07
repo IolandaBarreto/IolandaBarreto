@@ -18,8 +18,7 @@
 
 ## 🛤️ Rumo ao futuro
 
-- ✅ Em **maio de 2025**, conquistei minha primeira certificação:   
-  **AWS Certified Cloud Practitioner**
+- ✅ Em **maio de 2025**, conquistei minha primeira certificação: **AWS Certified Cloud Practitioner**
   
 - 🎯 Próximo objetivo: conquistar a certificação **AWS AI Practitioner**.  
 - 🏗️ Concluir as pós-graduações em:  
