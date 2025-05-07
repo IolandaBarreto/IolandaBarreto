@@ -4,15 +4,9 @@
 
 <img src="https://blog.saninternet.com/wp-content/uploads/2021/09/cloud-computing.png" height="280" alt="Imagem de cloud computing">
 
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Badge AWS">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Badge Python">
-</a>
-<a href="https://aws.amazon.com/machine-learning/" target="_blank">
-  <img src="https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" alt="Badge IA">
-</a>
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![IA](https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge&logo=brain&logoColor=white)](https://aws.amazon.com/machine-learning/)
 
 </div>
 
@@ -69,4 +63,11 @@
 💬 Fique à vontade para me conectar ou trocar ideias sobre **Cloud Computing**!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/)
+
+---
+
+## 📖 Citação que me inspira
+
+> "A jornada de mil milhas começa com o primeiro passo."  
+> — Lao Tzu
