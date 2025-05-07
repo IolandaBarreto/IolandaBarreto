@@ -10,11 +10,8 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Badge Python">
 </a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Badge Azure">
-</a>
 <a href="https://aws.amazon.com/machine-learning/" target="_blank">
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" alt="Badge IA">
+  <img src="https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" alt="Badge IA">
 </a>
 
 </div>
@@ -80,3 +77,4 @@
 
 > "A jornada de mil milhas começa com o primeiro passo."  
 > — Lao Tzu
+
