@@ -33,7 +33,7 @@
 
 - 🖥️ **EC2** — Criação e gerenciamento de instâncias para hospedagem de aplicações na nuvem  
 - 📦 **S3** — Solução robusta de armazenamento de objetos, ideal para backups, sites estáticos e dados estruturados  
-- 🌐 **Route 5uração de DNS e roteamento inteligente de tráfego para alta disponibilidade  
+- 🌐 **Route 53** — Configuração de DNS e roteamento inteligente de tráfego para alta disponibilidade  
 - 🔐 **IAM** — Definição de políticas e controle de acesso para manter a segurança e conformidade  
 - 🧠 **Python** — Automatização de tarefas, integração com serviços em nuvem e análise de dados  
 - 🤖 **IA** — Aplicação de inteligência artificial em projetos na nuvem, com foco em inovação e automação
@@ -58,8 +58,8 @@
 
 💬 Fique à vontade para me conectar ou trocar ideias sobre **Cloud Computing**!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto){:target="_blank"}  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/)
 
 ---
 
