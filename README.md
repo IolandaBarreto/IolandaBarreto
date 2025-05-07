@@ -69,12 +69,4 @@
 💬 Fique à vontade para me conectar ou trocar ideias sobre **Cloud Computing**!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/)
-
----
-
-## 📖 Citação que me inspira
-
-> "A jornada de mil milhas começa com o primeiro passo."  
-> — Lao Tzu
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram)
