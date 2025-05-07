@@ -1,12 +1,8 @@
 <div align="center">
 
-# 🌐 Explorando o mundo da nuvem e da tecnologia
+# 🧠 Aprendizado constante, tecnologia e propósito — esse é meu GitHub!
 
-<img src="https://blog.saninternet.com/wp-content/uploads/2021/09/cloud-computing.png" height="280" alt="Imagem de cloud computing">
-
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![IA](https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge&logo=brain&logoColor=white)](https://aws.amazon.com/machine-learning/)
+<img src="https://blog.saninternet.com/wp-content/uploads/2021/09/cloud-computing.png" height="280" alt="Boas-vindas animadas">
 
 </div>
 
@@ -37,7 +33,7 @@
 
 - 🖥️ **EC2** — Criação e gerenciamento de instâncias para hospedagem de aplicações na nuvem  
 - 📦 **S3** — Solução robusta de armazenamento de objetos, ideal para backups, sites estáticos e dados estruturados  
-- 🌐 **Route 53** — Configuração de DNS e roteamento inteligente de tráfego para alta disponibilidade  
+- 🌐 **Route 5uração de DNS e roteamento inteligente de tráfego para alta disponibilidade  
 - 🔐 **IAM** — Definição de políticas e controle de acesso para manter a segurança e conformidade  
 - 🧠 **Python** — Automatização de tarefas, integração com serviços em nuvem e análise de dados  
 - 🤖 **IA** — Aplicação de inteligência artificial em projetos na nuvem, com foco em inovação e automação
@@ -62,8 +58,8 @@
 
 💬 Fique à vontade para me conectar ou trocar ideias sobre **Cloud Computing**!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto){:target="_blank"}  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/){:target="_blank"}
 
 ---
 
@@ -71,3 +67,14 @@
 
 > "A jornada de mil milhas começa com o primeiro passo."  
 > — Lao Tzu
+
+---
+
+## 🌐 Ícones de Tecnologia
+
+<div align="center">
+    <img src="https://img.icons8.com/ios/50/000000/aws.png" alt="AWS" />
+    <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" />
+    <img src="https://img.icons8.com/ios/50/000000/cloud.png" alt="Cloud" />
+    <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI" />
+</div>
