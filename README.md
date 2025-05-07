@@ -1,71 +1,82 @@
 <div align="center">
 
-# Sejam bem vindos ao meu Github!
+# 🌐 Explorando o mundo da nuvem e da tecnologia
 
-<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" height="320" alt="GIF de boas-vindas max-width: 100%" >
-</div>
+<img src="https://blog.saninternet.com/wp-content/uploads/2021/09/cloud-computing.png" height="280" alt="Imagem de cloud computing">
 
-
-## 💻 Sobre mim
-    •Estudante do 3º ano do ensino médio, apaixonada por tecnologia.
-    •Interessada em Engenharia de Software e Desenvolvimento Front-end. 
-    •Atualmente aprendendo HTML, CSS, Python e JavaScript.
-
-
-
-## 🚀 Objetivos
-    •Obter a certificação AWS Cloud Practitioner. 
-    •Aprimorar meus conhecimentos em Front-end.
-    •Aprender design responsivo e boas práticas de desenvolvimento.
-
-## ☁ Explorando AWS
-    •Serviços: EC2, S3, Route 53, IAM, VPC, RDS.
-
-
- ## 🌟 Tecnologias
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="30">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="30">&nbsp;
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Badge AWS">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Badge Python">
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Badge Azure">
+</a>
+<a href="https://aws.amazon.com/machine-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" alt="Badge IA">
+</a>
 
 </div>
 
-## 🔧 Ferramentas
-	
- <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="30">&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="30">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="30">&nbsp;
- 
-</div>
+---
 
-<div align="center">
-<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="250" alt="GIF_0_1" >
-</div>
+## 🌟 Minha Jornada
 
- ## 📊 GitHub Stats:
+☁️ **Estudante de Cloud Computing** com foco em **AWS** e **Azure**.  
+📚 Minha jornada na nuvem começou em **outubro de 2024**, com o início do curso na **Escola da Nuvem**. Desde então, estou imersa no universo da computação em nuvem, aprendendo sobre serviços, automação, infraestrutura escalável e Inteligência Artificial.  
+🚀 Meu objetivo é aplicar a tecnologia com propósito, construindo soluções modernas, seguras e eficientes na nuvem.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IolandaBarreto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IolandaBarreto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
-  
-  ## 🌐 Conecte-se comigo
+## 🛤️ Rumo ao futuro
 
-<div> 
-   <a href="http://linkedin.com/in/geovanna-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/geovannaaparecidanunes?igsh=MTd1MXI4dG1uODltZQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/xfFraNfm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: contato: geovannanunes349@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+- ✅ Em **maio de 2025**, conquistei minha primeira certificação:  
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.2d847419e97bfb8d0893487f89bb4c4ecb4f7b7a.png" height="80" alt="AWS Cloud Practitioner badge">  
+- 🎯 Próximo objetivo: conquistar a certificação **AWS AI Practitioner**.  
+- 🏗️ Concluir as pós-graduações em:  
+  • **Arquitetura e Projetos de Cloud Computing**  
+  • **Arquitetura e Desenvolvimento de Sistemas com ênfase em Padrões de Projeto**
 
- ## 🐍 Contribuições no GitHub
- 
-<div align="center">
-<img src="https://raw.githubusercontent.com/GeovannaApNunes/GeovannaApNunes/output/snake.svg" alt="Snake animation" />
-</div>
+---
+
+## 🛰️ Missão: conhecer a nuvem
+
+🔍 Explorando os principais serviços da **AWS**, com foco em prática e arquitetura escalável:
+
+- 🖥️ **EC2** — Criação e gerenciamento de instâncias para hospedagem de aplicações na nuvem  
+- 📦 **S3** — Solução robusta de armazenamento de objetos, ideal para backups, sites estáticos e dados estruturados  
+- 🌐 **Route 53** — Configuração de DNS e roteamento inteligente de tráfego para alta disponibilidade  
+- 🔐 **IAM** — Definição de políticas e controle de acesso para manter a segurança e conformidade  
+- 🧠 **Python** — Automatização de tarefas, integração com serviços em nuvem e análise de dados  
+- 🤖 **IA** — Aplicação de inteligência artificial em projetos na nuvem, com foco em inovação e automação
+
+---
+
+## 🧩 Projetos em andamento
+
+🚧 Atualmente participo de um projeto em equipe pela **Escola da Nuvem**, unindo conhecimentos em **IA** e **serviços AWS**.
+
+🎯 **Projeto:** *Desenvolvimento da Aplicação de Trilha de Estudos AWS*  
+📌 **Tema:** Portfólio interativo que guia os usuários por uma jornada de aprendizado na nuvem, utilizando ferramentas inteligentes para personalizar a trilha.  
+🤝 **Tecnologias envolvidas:**  
+- AWS (Lambda, S3, API Gateway, DynamoDB)  
+- Inteligência Artificial  
+- Python  
+- Git e GitHub para versionamento colaborativo
+
+---
+
+## 🤝 Conecte-se comigo
+
+💬 Fique à vontade para me conectar ou trocar ideias sobre **Cloud Computing**!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/)
+
+---
+
+## 📖 Citação que me inspira
+
+> "A jornada de mil milhas começa com o primeiro passo."  
+> — Lao Tzu
