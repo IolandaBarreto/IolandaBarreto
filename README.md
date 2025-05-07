@@ -18,8 +18,7 @@
 
 ## 🛤️ Rumo ao futuro
 
-- ✅ Em **maio de 2025**, conquistei minha primeira certificação:  
-  <img src="https://images.credly.com/size/340x340/images/684c67d8-8f4f-4d90-b372-8d403dfd3584/image.png" height="80" alt="AWS Cloud Practitioner badge">  
+- ✅ Em **maio de 2025**, conquistei minha primeira certificação:   
   **AWS Certified Cloud Practitioner**
   
 - 🎯 Próximo objetivo: conquistar a certificação **AWS AI Practitioner**.  
