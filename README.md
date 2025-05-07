@@ -70,11 +70,4 @@
 
 ---
 
-## 🌐 Ícones de Tecnologia
-
-<div align="center">
-    <img src="https://img.icons8.com/ios/50/000000/aws.png" alt="AWS" />
-    <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" />
-    <img src="https://img.icons8.com/ios/50/000000/cloud.png" alt="Cloud" />
-    <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI" />
 </div>
