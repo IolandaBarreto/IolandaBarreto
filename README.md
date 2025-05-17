@@ -18,7 +18,7 @@
 
 ## 🛤️ Rumo ao futuro
 
-- ✅ Em **maio de 2025**, conquistei minha primeira certificação: **AWS Certified Cloud Practitioner**
+- ✅ Em **maio de 2025**, conquistei minha primeira certificação: **AZ-900: Microsoft Azure Fundamentals**
   
 - 🎯 Próximo objetivo: conquistar a certificação **AWS AI Practitioner**.  
 - 🏗️ Concluir as pós-graduações em:  
@@ -60,7 +60,6 @@
 💬 Fique à vontade para me conectar ou trocar ideias sobre **Cloud Computing**!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolanda-barreto)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iolandabarreto.cloud/)
 
 ---
 
