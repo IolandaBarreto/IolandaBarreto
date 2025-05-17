@@ -18,9 +18,9 @@
 
 ## 🛤️ Rumo ao futuro
 
-- ✅ Em **maio de 2025**, conquistei minha primeira certificação: **AZ-900: Microsoft Azure Fundamentals**
+- ✅ Em **maio de 2025**, conquistei minha primeira certificação: **AWS Cloud Practitioner**
   
-- 🎯 Próximo objetivo: conquistar a certificação **AWS AI Practitioner**.  
+- 🎯 Próximo objetivo: conquistar a certificação **AZ-900: Microsoft Azure Fundamentals**.  
 - 🏗️ Concluir as pós-graduações em:  
   • **Arquitetura e Projetos de Cloud Computing**  
   • **Arquitetura e Desenvolvimento de Sistemas com ênfase em Padrões de Projeto**
